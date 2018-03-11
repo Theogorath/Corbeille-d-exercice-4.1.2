@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+    background-color: white;
+    color: black;
+    font-size: 80px;
+    font-weight: bolder;
+}
+
+button {
+    text-align: center;
+    width: 200px;
+    height: 100px;
+    border-radius: 20px;
+    margin: 20px;
+    font-size: 60px;
+    color: white;
+    background-color: black;
+    border: none;
+}
